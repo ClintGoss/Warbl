@@ -21,7 +21,7 @@ such as engraving sheet music and authoring educational material.
 The fonts are particularly useful for people who use Microsoft Word to publish PDF documents.
 
 In addition to being useful for normal text, the fonts have finger diagrams for all possible combinations
-of open and closed holes on the Warbl instrument, as well as a broad range of additional characters for
+of open and closed finger holes on the Warbl instrument, as well as a broad range of additional characters for
 typesetting music.
 Each font has both vertical and horizontal finger diagrams.
 
