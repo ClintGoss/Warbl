@@ -8,6 +8,8 @@ including specific font names and locations, example documents, and screen captu
 
 Please visit https://Flutopedia.com/warbl_fonts.htm to access the fonts themselves.
 
+Visit https://github.com/amowry/WARBL2 for the Open Source firmware for the most recent release of the Warbl hardware.
+
 Note that, while the Warbl Font Folio is licensed under the OFL (Open Font License, version 1.1),
 the contents of (and submissions to) this repositiory are licensed under CC-BY.
 
